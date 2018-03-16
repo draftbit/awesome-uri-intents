@@ -1,0 +1,10 @@
+{
+  "name": "uri-intents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Piekarczyk <peterpiekarczyk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "array-to-table": "^1.0.1"
+  }
+}

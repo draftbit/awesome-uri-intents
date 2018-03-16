@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Mail (Default)",
+    "ios": "mailto",
+    "android": "mailto"
+  },
+  {
+    "name": "Gmail",
+    "ios": "googlegmail",
+    "android": "mailto"
+  },
+  {
+    "name": "Inbox",
+    "ios": "inbox-gmail",
+    "android": "mailto"
+  },
+  {
+    "name": "Outlook",
+    "ios": "ms-outlook",
+    "android": "mailto"
+  },
+  {
+    "name": "Polymail",
+    "ios": "polymail",
+    "android": null
+  },
+  {
+    "name": "Yahoo Mail",
+    "ios": "ymail",
+    "android": "mailto"
+  },
+  {
+    "name": "Spark",
+    "ios": "spark-readdle",
+    "android": "mailto"
+  },
+  {
+    "name": "Airmail",
+    "ios": "airmail",
+    "android": "mailto"
+  },
+  {
+    "name": "Newton Email",
+    "ios": "cloudmagic",
+    "android": "mailto"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Uber",
+    "ios": "uber",
+    "android": "uber"
+  },
+  {
+    "name": "Lyft",
+    "ios": "lyft",
+    "android": "lyft"
+  }
+]
